@@ -1,6 +1,7 @@
 # 🛡️ Strategic Security & Threat Intelligence
 
-**Cybersecurity Architect** with a decade-long track record of engineering high-fidelity defense ecosystems. I specialize in transforming reactive IT infrastructures into hardened, data-centric environments that stay ahead of the global threat landscape.
+**Cybersecurity Spacialist** with a decade-long track record of engineering high-fidelity defense ecosystems. I specialize in transforming reactive IT infrastructures into hardened, data-centric environments that stay ahead of the global threat landscape.
+With cybersecurity experience, I specialize in threat intelligence, strategic security planning, configuration and management, malware analysis, Virtual Practical Threat Hunting, Inside the Mind of an APT, Reverse Engineering, Linux and Windows Enterprise Incident Response, leveraging data‑driven insights to improve threat detection and response by 75% while maintaining certifications including C|EH, AZ‑500, AWS Security, and PangFW‑Edu 210 to strengthen organizational security resilience.
 
 ---
 
